@@ -7,6 +7,7 @@ public class Students implements Comparator<Student> {
 	String name;
 	double per;
 	int age;
+	String grade;
 	
 	public Students(int id, String name, double per, int age) {
 		
